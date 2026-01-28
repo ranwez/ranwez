@@ -1,6 +1,6 @@
 ### Selected GitHub Projects
 
-- [MACSE](https://github.com/ranwez/MACSE_V2_PIPELINES) — Frame-aware alignment of coding sequences  
+- [MACSE-pipelines](https://github.com/ranwez/MACSE_V2_PIPELINES) — Frame-aware alignment of coding sequences  
 - [SeqTUI](https://github.com/ranwez-search/SeqTUI) — Terminal-based sequence viewer and command-line toolkit (vibe-coded)  
 - [GeCKO](https://github.com/GE2POP/GeCKO) — Workflows for genotyping complex genomes using target enrichment capture  
 - [LRRprofiler](https://github.com/ranwez/LRRprofiler) — Detection and annotation of LRR (Leucine-Rich Repeat)–containing plant receptors  
